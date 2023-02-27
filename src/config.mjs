@@ -8,8 +8,7 @@ const CONFIG = {
   trailingSlash: false,
 
   title: 'Personal Blog site',
-  description:
-    '🚀 Personal Blog site for Technical and Software development.',
+  description: '🚀 Personal Blog site for Technical and Software development.',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
@@ -24,8 +23,8 @@ const CONFIG = {
     timeZone: 'UTC',
   }),
 
-  googleAnalyticsId: false, // or "G-XXXXXXXXXX",
-  googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
+  googleAnalyticsId: 'G-EX3J8GYVH0', // or "G-XXXXXXXXXX",
+  googleSiteVerificationId: 'ZRGjVSV9-ppuwAfXauY4lobAzUpPzXC6ua7uFBhL_Dw',
 
   blog: {
     disabled: false,
